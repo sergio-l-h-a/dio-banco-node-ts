@@ -23,17 +23,17 @@ Toda a lógica funciona em memória, sem banco de dados externo.
 # 🚀 Tecnologias utilizadas
 Este projeto foi construído utilizando tecnologias modernas e eficientes para desenvolvimento backend:
 
-🟩 Node.js — Ambiente de execução JavaScript no servidor
+- 🟩 Node.js — Ambiente de execução JavaScript no servidor
 
-🔷 TypeScript — Superset do JavaScript com tipagem estática
+- 🔷 TypeScript — Superset do JavaScript com tipagem estática
 
-⚫ Express — Framework minimalista para criação de APIs
+- ⚫ Express — Framework minimalista para criação de APIs
 
-🆔 UUID — Geração de identificadores únicos
+- 🆔 UUID — Geração de identificadores únicos
 
-🔄 Nodemon — Atualização automática durante o desenvolvimento
+- 🔄 Nodemon — Atualização automática durante o desenvolvimento
 
-⚡ Thunder Client — Testes das rotas diretamente no VS Code
+- ⚡ Thunder Client — Testes das rotas diretamente no VS Code
 
 
 📂 Estrutura do projeto
