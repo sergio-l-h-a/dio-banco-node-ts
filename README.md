@@ -38,19 +38,20 @@ Este projeto foi construído utilizando tecnologias modernas e eficientes para d
 
 📂 Estrutura do projeto
 
-src/
- ├── controllers/
- │    ├── criarContaController.ts
- │    ├── depositoController.ts
- │    ├── saqueController.ts
- │    ├── extratoController.ts
- │    ├── transferenciaController.ts
- │    └── listarContasController.ts
- ├── database/
- │    └── database.ts
- ├── routes/
- │    └── contasRoutes.ts
- └── server.ts
+📁 src/
+ ├── 📂 controllers/
+ │    ├── 📄 criarContaController.ts
+ │    ├── 📄 depositoController.ts
+ │    ├── 📄 saqueController.ts
+ │    ├── 📄 extratoController.ts
+ │    ├── 📄 transferenciaController.ts
+ │    └── 📄 listarContasController.ts
+ ├── 📂 database/
+ │    └── 📄 database.ts
+ ├── 📂 routes/
+ │    └── 📄 contasRoutes.ts
+ └── 📄 server.ts
+
 
 
 📡 Rotas da API
