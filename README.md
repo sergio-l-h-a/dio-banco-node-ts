@@ -37,7 +37,7 @@ Este projeto foi construído utilizando tecnologias modernas e eficientes para d
 
 
 📂 Estrutura do projeto
-
+````
 📁 src/
  ├── 📂 controllers/
  │    ├── 📄 criarContaController.ts
@@ -51,7 +51,7 @@ Este projeto foi construído utilizando tecnologias modernas e eficientes para d
  ├── 📂 routes/
  │    └── 📄 contasRoutes.ts
  └── 📄 server.ts
-
+````
 
 
 📡 Rotas da API
