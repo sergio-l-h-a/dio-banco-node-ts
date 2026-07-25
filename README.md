@@ -55,6 +55,7 @@ Este projeto foi construído utilizando tecnologias modernas e eficientes para d
 
 
 📡 Rotas da API
+````
 🔹 Criar conta
 POST /contas
 {
@@ -97,8 +98,7 @@ Retorna:
 💵 Saldo
 
 📜 Histórico de operações
-
-
+````
 ▶️ Como rodar o projeto
 1️⃣ Instalar dependências
 
