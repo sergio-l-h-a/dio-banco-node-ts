@@ -113,7 +113,7 @@ http://localhost:3333
 
 
 🧠 Modelo de dados
-
+````
 {
   id: string,
   nome: string,
@@ -124,7 +124,7 @@ http://localhost:3333
     data: Date
   }>
 }
-
+````
 
 👨‍💻 Autor
 Francisco Sergio  
